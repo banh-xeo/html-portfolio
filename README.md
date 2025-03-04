@@ -1,2 +1,1 @@
-# html-portfolio
-# Online Resume in HTML
+# html-portfolio - Online Resume in HTML
